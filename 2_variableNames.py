@@ -28,4 +28,7 @@ print(line01)
 
 ########################################################################
 
-# INDENTATION
+# Make sure the pep8 formatting is enabled on VSCode. If you are not able to find the setting, it is probably not installed.
+# Install the pep8 extension and then try to save a file with incorrect formatting and it should autocorrect the formatting
+# before it is saved.
+
